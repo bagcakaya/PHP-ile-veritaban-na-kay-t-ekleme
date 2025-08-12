@@ -1,0 +1,1 @@
+# PHP-ile-veritaban-na-kay-t-ekleme
